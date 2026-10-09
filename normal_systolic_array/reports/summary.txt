@@ -1,0 +1,2 @@
+design=normal_systolic_array top=systolic_array part=xc7k70tfbv676-1 N=4
+LUT=1474 FF=704 DSP=0 WNS_ns=5.123 (100 MHz clock) total_power_W=0.113

@@ -1,0 +1,44 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct  9 15:43:30 2026
+| Host         : LAPTOP-SBM6UN6L running 64-bit major release  (build 9200)
+| Command      : report_utilization -hierarchical -hierarchical_depth 2 -file C:/Users/RAJU/OneDrive/Desktop/systolic-array-dip/stall_free_dip_array/reports/area_utilization_per_module.rpt
+| Design       : stall_free_dip_array
+| Device       : xc7k70tfbv676-1
+| Speed File   : -1
+| Design State : Synthesized
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Utilization by Hierarchy
+
+1. Utilization by Hierarchy
+---------------------------
+
++---------------------------------+----------------------+------------+------------+---------+------+------+--------+--------+------------+
+|             Instance            |        Module        | Total LUTs | Logic LUTs | LUTRAMs | SRLs |  FFs | RAMB36 | RAMB18 | DSP Blocks |
++---------------------------------+----------------------+------------+------------+---------+------+------+--------+--------+------------+
+| stall_free_dip_array            |                (top) |       1777 |       1777 |       0 |    0 | 1156 |      0 |      0 |          0 |
+|   row_gen[0].col_gen[0].pe_inst |    stall_free_dip_pe |        117 |        117 |       0 |    0 |   73 |      0 |      0 |          0 |
+|   row_gen[0].col_gen[1].pe_inst |  stall_free_dip_pe_0 |        117 |        117 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[0].col_gen[2].pe_inst |  stall_free_dip_pe_1 |        117 |        117 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[0].col_gen[3].pe_inst |  stall_free_dip_pe_2 |        117 |        117 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[1].col_gen[0].pe_inst |  stall_free_dip_pe_3 |        109 |        109 |       0 |    0 |   73 |      0 |      0 |          0 |
+|   row_gen[1].col_gen[1].pe_inst |  stall_free_dip_pe_4 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[1].col_gen[2].pe_inst |  stall_free_dip_pe_5 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[1].col_gen[3].pe_inst |  stall_free_dip_pe_6 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[2].col_gen[0].pe_inst |  stall_free_dip_pe_7 |        109 |        109 |       0 |    0 |   73 |      0 |      0 |          0 |
+|   row_gen[2].col_gen[1].pe_inst |  stall_free_dip_pe_8 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[2].col_gen[2].pe_inst |  stall_free_dip_pe_9 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[2].col_gen[3].pe_inst | stall_free_dip_pe_10 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[3].col_gen[0].pe_inst | stall_free_dip_pe_11 |        110 |        110 |       0 |    0 |   73 |      0 |      0 |          0 |
+|   row_gen[3].col_gen[1].pe_inst | stall_free_dip_pe_12 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[3].col_gen[2].pe_inst | stall_free_dip_pe_13 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
+|   row_gen[3].col_gen[3].pe_inst | stall_free_dip_pe_14 |        109 |        109 |       0 |    0 |   72 |      0 |      0 |          0 |
++---------------------------------+----------------------+------------+------------+---------+------+------+--------+--------+------------+
+
+

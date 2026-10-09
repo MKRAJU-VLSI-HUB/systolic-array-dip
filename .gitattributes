@@ -1,0 +1,4 @@
+*.pdf binary
+*.png binary
+*.vcd text eol=lf
+*.sh text eol=lf

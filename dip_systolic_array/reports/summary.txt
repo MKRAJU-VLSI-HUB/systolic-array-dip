@@ -1,0 +1,2 @@
+design=dip_systolic_array top=dip_systolic_array part=xc7k70tfbv676-1 N=4
+LUT=1489 FF=1024 DSP=0 WNS_ns=6.360 (100 MHz clock) total_power_W=0.112

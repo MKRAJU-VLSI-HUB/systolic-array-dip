@@ -1,0 +1,7 @@
+build/
+scripts/
+.Xil/
+*.jou
+*.log
+*.pb
+xsim.dir/

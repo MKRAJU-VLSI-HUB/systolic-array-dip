@@ -1,0 +1,162 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version     : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date             : Fri Oct  9 15:37:27 2026
+| Host             : LAPTOP-SBM6UN6L running 64-bit major release  (build 9200)
+| Command          : report_power -file C:/Users/RAJU/OneDrive/Desktop/systolic-array-dip/normal_systolic_array/reports/power.rpt
+| Design           : systolic_array
+| Device           : xc7k70tfbv676-1
+| Design State     : synthesized
+| Grade            : commercial
+| Process          : typical
+| Characterization : Production
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Power Report
+
+Table of Contents
+-----------------
+1. Summary
+1.1 On-Chip Components
+1.2 Power Supply Summary
+1.3 Confidence Level
+2. Settings
+2.1 Environment
+2.2 Clock Constraints
+3. Detailed Reports
+3.1 By Hierarchy
+
+1. Summary
+----------
+
++--------------------------+--------------+
+| Total On-Chip Power (W)  | 0.113        |
+| Design Power Budget (W)  | Unspecified* |
+| Power Budget Margin (W)  | NA           |
+| Dynamic (W)              | 0.033        |
+| Device Static (W)        | 0.079        |
+| Effective TJA (C/W)      | 1.9          |
+| Max Ambient (C)          | 84.8         |
+| Junction Temperature (C) | 25.2         |
+| Confidence Level         | Medium       |
+| Setting File             | ---          |
+| Simulation Activity File | ---          |
+| Design Nets Matched      | NA           |
++--------------------------+--------------+
+* Specify Design Power Budget using, set_operating_conditions -design_power_budget <value in Watts>
+
+
+1.1 On-Chip Components
+----------------------
+
++----------------+-----------+----------+-----------+-----------------+
+| On-Chip        | Power (W) | Used     | Available | Utilization (%) |
++----------------+-----------+----------+-----------+-----------------+
+| Clocks         |     0.011 |        3 |       --- |             --- |
+| Slice Logic    |     0.016 |     3442 |       --- |             --- |
+|   LUT as Logic |     0.013 |     1474 |     41000 |            3.60 |
+|   CARRY4       |     0.002 |      320 |     10250 |            3.12 |
+|   Register     |    <0.001 |      704 |     82000 |            0.86 |
+|   Others       |     0.000 |       32 |       --- |             --- |
+| Signals        |     0.006 |     1347 |       --- |             --- |
+| Static Power   |     0.079 |          |           |                 |
+| Total          |     0.113 |          |           |                 |
++----------------+-----------+----------+-----------+-----------------+
+
+
+1.2 Power Supply Summary
+------------------------
+
++-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
+| Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) | Powerup (A) | Budget (A)  | Margin (A) |
++-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
+| Vccint    |       1.000 |     0.055 |       0.033 |      0.022 |       NA    | Unspecified | NA         |
+| Vccaux    |       1.800 |     0.012 |       0.000 |      0.012 |       NA    | Unspecified | NA         |
+| Vcco33    |       3.300 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vcco18    |       1.800 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vcco15    |       1.500 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vcco135   |       1.350 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vcco12    |       1.200 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vccaux_io |       1.800 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vccbram   |       1.000 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| MGTAVcc   |       1.000 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| MGTAVtt   |       1.200 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| MGTVccaux |       1.800 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
+| Vccadc    |       1.800 |     0.020 |       0.000 |      0.020 |       NA    | Unspecified | NA         |
++-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
+
+
+1.3 Confidence Level
+--------------------
+
++-----------------------------+------------+------------------------------------------------+------------------------------------------------------------------------------------------------------------+
+| User Input Data             | Confidence | Details                                        | Action                                                                                                     |
++-----------------------------+------------+------------------------------------------------+------------------------------------------------------------------------------------------------------------+
+| Design implementation state | Low        | Design is synthesized                          | Accuracy of the tool is not optimal until design is fully placed and routed                                |
+| Clock nodes activity        | High       | User specified more than 95% of clocks         |                                                                                                            |
+| I/O nodes activity          | High       | User specified more than 95% of inputs         |                                                                                                            |
+| Internal nodes activity     | Medium     | User specified less than 25% of internal nodes | Provide missing internal nodes activity with simulation results or by editing the "By Resource Type" views |
+| Device models               | High       | Device models are Production                   |                                                                                                            |
+|                             |            |                                                |                                                                                                            |
+| Overall confidence level    | Medium     |                                                |                                                                                                            |
++-----------------------------+------------+------------------------------------------------+------------------------------------------------------------------------------------------------------------+
+
+
+2. Settings
+-----------
+
+2.1 Environment
+---------------
+
++-----------------------+--------------------------+
+| Ambient Temp (C)      | 25.0                     |
+| ThetaJA (C/W)         | 1.9                      |
+| Airflow (LFM)         | 250                      |
+| Heat Sink             | medium (Medium Profile)  |
+| ThetaSA (C/W)         | 3.4                      |
+| Board Selection       | medium (10"x10")         |
+| # of Board Layers     | 12to15 (12 to 15 Layers) |
+| Board Temperature (C) | 25.0                     |
++-----------------------+--------------------------+
+
+
+2.2 Clock Constraints
+---------------------
+
++---------+--------+-----------------+
+| Clock   | Domain | Constraint (ns) |
++---------+--------+-----------------+
+| sys_clk | clk    |            10.0 |
++---------+--------+-----------------+
+
+
+3. Detailed Reports
+-------------------
+
+3.1 By Hierarchy
+----------------
+
++--------------------------+-----------+
+| Name                     | Power (W) |
++--------------------------+-----------+
+| systolic_array           |     0.033 |
+|   g_row[0].g_col[0].u_pe |     0.003 |
+|   g_row[0].g_col[1].u_pe |     0.003 |
+|   g_row[0].g_col[2].u_pe |     0.003 |
+|   g_row[0].g_col[3].u_pe |     0.002 |
+|   g_row[1].g_col[0].u_pe |     0.002 |
+|   g_row[1].g_col[1].u_pe |     0.002 |
+|   g_row[1].g_col[2].u_pe |     0.002 |
+|   g_row[1].g_col[3].u_pe |     0.002 |
+|   g_row[2].g_col[0].u_pe |     0.002 |
+|   g_row[2].g_col[1].u_pe |     0.002 |
+|   g_row[2].g_col[2].u_pe |     0.002 |
+|   g_row[2].g_col[3].u_pe |     0.002 |
+|   g_row[3].g_col[0].u_pe |     0.001 |
+|   g_row[3].g_col[1].u_pe |     0.002 |
+|   g_row[3].g_col[2].u_pe |     0.001 |
+|   g_row[3].g_col[3].u_pe |     0.001 |
++--------------------------+-----------+
+
+

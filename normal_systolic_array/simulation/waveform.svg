@@ -1,0 +1,328 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1726' height='460' font-family='Consolas,monospace' font-size='11'>
+<rect width='100%' height='100%' fill='#111418'/>
+<text x='12' y='22' fill='#e6edf3' font-size='15' font-weight='bold'>Normal (output-stationary) 4x4 systolic array - test 1</text>
+<text x='12' y='40' fill='#8b949e'>window 0 ns - 240 ns (10 ns clock)</text>
+<line x1='170.0' y1='56' x2='170.0' y2='436' stroke='#21262d'/>
+<text x='170.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>0</text>
+<line x1='234.0' y1='56' x2='234.0' y2='436' stroke='#21262d'/>
+<text x='234.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>10</text>
+<line x1='298.0' y1='56' x2='298.0' y2='436' stroke='#21262d'/>
+<text x='298.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>20</text>
+<line x1='362.0' y1='56' x2='362.0' y2='436' stroke='#21262d'/>
+<text x='362.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>30</text>
+<line x1='426.0' y1='56' x2='426.0' y2='436' stroke='#21262d'/>
+<text x='426.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>40</text>
+<line x1='490.0' y1='56' x2='490.0' y2='436' stroke='#21262d'/>
+<text x='490.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>50</text>
+<line x1='554.0' y1='56' x2='554.0' y2='436' stroke='#21262d'/>
+<text x='554.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>60</text>
+<line x1='618.0' y1='56' x2='618.0' y2='436' stroke='#21262d'/>
+<text x='618.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>70</text>
+<line x1='682.0' y1='56' x2='682.0' y2='436' stroke='#21262d'/>
+<text x='682.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>80</text>
+<line x1='746.0' y1='56' x2='746.0' y2='436' stroke='#21262d'/>
+<text x='746.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>90</text>
+<line x1='810.0' y1='56' x2='810.0' y2='436' stroke='#21262d'/>
+<text x='810.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>100</text>
+<line x1='874.0' y1='56' x2='874.0' y2='436' stroke='#21262d'/>
+<text x='874.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>110</text>
+<line x1='938.0' y1='56' x2='938.0' y2='436' stroke='#21262d'/>
+<text x='938.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>120</text>
+<line x1='1002.0' y1='56' x2='1002.0' y2='436' stroke='#21262d'/>
+<text x='1002.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>130</text>
+<line x1='1066.0' y1='56' x2='1066.0' y2='436' stroke='#21262d'/>
+<text x='1066.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>140</text>
+<line x1='1130.0' y1='56' x2='1130.0' y2='436' stroke='#21262d'/>
+<text x='1130.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>150</text>
+<line x1='1194.0' y1='56' x2='1194.0' y2='436' stroke='#21262d'/>
+<text x='1194.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>160</text>
+<line x1='1258.0' y1='56' x2='1258.0' y2='436' stroke='#21262d'/>
+<text x='1258.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>170</text>
+<line x1='1322.0' y1='56' x2='1322.0' y2='436' stroke='#21262d'/>
+<text x='1322.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>180</text>
+<line x1='1386.0' y1='56' x2='1386.0' y2='436' stroke='#21262d'/>
+<text x='1386.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>190</text>
+<line x1='1450.0' y1='56' x2='1450.0' y2='436' stroke='#21262d'/>
+<text x='1450.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>200</text>
+<line x1='1514.0' y1='56' x2='1514.0' y2='436' stroke='#21262d'/>
+<text x='1514.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>210</text>
+<line x1='1578.0' y1='56' x2='1578.0' y2='436' stroke='#21262d'/>
+<text x='1578.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>220</text>
+<line x1='1642.0' y1='56' x2='1642.0' y2='436' stroke='#21262d'/>
+<text x='1642.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>230</text>
+<line x1='1706.0' y1='56' x2='1706.0' y2='436' stroke='#21262d'/>
+<text x='1706.0' y='450' fill='#6e7681' text-anchor='middle' font-size='9'>240</text>
+<text x='10' y='77.0' fill='#79c0ff'>clk</text>
+<line x1='170.0' y1='82' x2='202.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='202.0' y1='64' x2='234.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='202.0' y1='64' x2='202.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='234.0' y1='82' x2='266.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='234.0' y1='64' x2='234.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='266.0' y1='64' x2='298.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='266.0' y1='64' x2='266.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='298.0' y1='82' x2='330.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='298.0' y1='64' x2='298.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='330.0' y1='64' x2='362.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='330.0' y1='64' x2='330.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='362.0' y1='82' x2='394.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='362.0' y1='64' x2='362.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='394.0' y1='64' x2='426.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='394.0' y1='64' x2='394.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='426.0' y1='82' x2='458.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='426.0' y1='64' x2='426.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='458.0' y1='64' x2='490.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='458.0' y1='64' x2='458.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='490.0' y1='82' x2='522.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='490.0' y1='64' x2='490.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='522.0' y1='64' x2='554.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='522.0' y1='64' x2='522.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='554.0' y1='82' x2='586.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='554.0' y1='64' x2='554.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='586.0' y1='64' x2='618.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='586.0' y1='64' x2='586.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='618.0' y1='82' x2='650.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='618.0' y1='64' x2='618.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='650.0' y1='64' x2='682.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='650.0' y1='64' x2='650.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='682.0' y1='82' x2='714.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='682.0' y1='64' x2='682.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='714.0' y1='64' x2='746.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='714.0' y1='64' x2='714.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='746.0' y1='82' x2='778.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='746.0' y1='64' x2='746.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='778.0' y1='64' x2='810.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='778.0' y1='64' x2='778.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='810.0' y1='82' x2='842.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='810.0' y1='64' x2='810.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='842.0' y1='64' x2='874.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='842.0' y1='64' x2='842.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='874.0' y1='82' x2='906.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='874.0' y1='64' x2='874.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='906.0' y1='64' x2='938.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='906.0' y1='64' x2='906.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='938.0' y1='82' x2='970.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='938.0' y1='64' x2='938.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='970.0' y1='64' x2='1002.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='970.0' y1='64' x2='970.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1002.0' y1='82' x2='1034.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1002.0' y1='64' x2='1002.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1034.0' y1='64' x2='1066.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1034.0' y1='64' x2='1034.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1066.0' y1='82' x2='1098.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1066.0' y1='64' x2='1066.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1098.0' y1='64' x2='1130.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1098.0' y1='64' x2='1098.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1130.0' y1='82' x2='1162.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1130.0' y1='64' x2='1130.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1162.0' y1='64' x2='1194.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1162.0' y1='64' x2='1162.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1194.0' y1='82' x2='1226.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1194.0' y1='64' x2='1194.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1226.0' y1='64' x2='1258.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1226.0' y1='64' x2='1226.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1258.0' y1='82' x2='1290.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1258.0' y1='64' x2='1258.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1290.0' y1='64' x2='1322.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1290.0' y1='64' x2='1290.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1322.0' y1='82' x2='1354.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1322.0' y1='64' x2='1322.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1354.0' y1='64' x2='1386.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1354.0' y1='64' x2='1354.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1386.0' y1='82' x2='1418.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1386.0' y1='64' x2='1386.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1418.0' y1='64' x2='1450.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1418.0' y1='64' x2='1418.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1450.0' y1='82' x2='1482.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1450.0' y1='64' x2='1450.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1482.0' y1='64' x2='1514.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1482.0' y1='64' x2='1482.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1514.0' y1='82' x2='1546.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1514.0' y1='64' x2='1514.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1546.0' y1='64' x2='1578.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1546.0' y1='64' x2='1546.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1578.0' y1='82' x2='1610.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1578.0' y1='64' x2='1578.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1610.0' y1='64' x2='1642.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1610.0' y1='64' x2='1610.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1642.0' y1='82' x2='1674.0' y2='82' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1642.0' y1='64' x2='1642.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1674.0' y1='64' x2='1706.0' y2='64' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1674.0' y1='64' x2='1674.0' y2='82' stroke='#3fb950' stroke-width='1.2'/>
+<text x='10' y='111.0' fill='#79c0ff'>rst_n</text>
+<line x1='170.0' y1='116' x2='298.0' y2='116' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='298.0' y1='98' x2='1578.0' y2='98' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='298.0' y1='98' x2='298.0' y2='116' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1578.0' y1='116' x2='1706.0' y2='116' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1578.0' y1='98' x2='1578.0' y2='116' stroke='#3fb950' stroke-width='1.2'/>
+<text x='10' y='145.0' fill='#79c0ff'>en</text>
+<line x1='170.0' y1='150' x2='298.0' y2='150' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='298.0' y1='132' x2='1578.0' y2='132' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='298.0' y1='132' x2='298.0' y2='150' stroke='#3fb950' stroke-width='1.2'/>
+<line x1='1578.0' y1='150' x2='1706.0' y2='150' stroke='#3fb950' stroke-width='1.5'/>
+<line x1='1578.0' y1='132' x2='1578.0' y2='150' stroke='#3fb950' stroke-width='1.2'/>
+<text x='10' y='179.0' fill='#79c0ff'>clear</text>
+<line x1='170.0' y1='184' x2='1706.0' y2='184' stroke='#3fb950' stroke-width='1.5'/>
+<text x='10' y='213.0' fill='#79c0ff'>a_in_flat (A rows)</text>
+<polygon points='173.0,200 359.0,200 362.0,209.0 359.0,218 173.0,218 170.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='266.0' y='213.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='365.0,200 423.0,200 426.0,209.0 423.0,218 365.0,218 362.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='394.0' y='213.0' fill='#e6edf3' text-anchor='middle'>FE</text>
+<polygon points='429.0,200 487.0,200 490.0,209.0 487.0,218 429.0,218 426.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='458.0' y='213.0' fill='#e6edf3' text-anchor='middle'>F203</text>
+<polygon points='493.0,200 551.0,200 554.0,209.0 551.0,218 493.0,218 490.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='522.0' y='213.0' fill='#e6edf3' text-anchor='middle'>F9F8F7</text>
+<polygon points='557.0,200 615.0,200 618.0,209.0 615.0,218 557.0,218 554.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='586.0' y='213.0' fill='#e6edf3' text-anchor='middle'>CFF0E04</text>
+<polygon points='621.0,200 679.0,200 682.0,209.0 679.0,218 621.0,218 618.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='650.0' y='213.0' fill='#e6edf3' text-anchor='middle'>FDF10E00</text>
+<polygon points='685.0,200 743.0,200 746.0,209.0 743.0,218 685.0,218 682.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='714.0' y='213.0' fill='#e6edf3' text-anchor='middle'>DFC0000</text>
+<polygon points='749.0,200 807.0,200 810.0,209.0 807.0,218 749.0,218 746.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='778.0' y='213.0' fill='#e6edf3' text-anchor='middle'>F6000000</text>
+<polygon points='813.0,200 1703.0,200 1706.0,209.0 1703.0,218 813.0,218 810.0,209.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1258.0' y='213.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<text x='10' y='247.0' fill='#79c0ff'>b_in_flat (B cols)</text>
+<polygon points='173.0,234 359.0,234 362.0,243.0 359.0,252 173.0,252 170.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='266.0' y='247.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='365.0,234 423.0,234 426.0,243.0 423.0,252 365.0,252 362.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='394.0' y='247.0' fill='#e6edf3' text-anchor='middle'>FD</text>
+<polygon points='429.0,234 487.0,234 490.0,243.0 487.0,252 429.0,252 426.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='458.0' y='247.0' fill='#e6edf3' text-anchor='middle'>F3F5</text>
+<polygon points='493.0,234 551.0,234 554.0,243.0 551.0,252 493.0,252 490.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='522.0' y='247.0' fill='#e6edf3' text-anchor='middle'>FAF4F9</text>
+<polygon points='557.0,234 615.0,234 618.0,243.0 615.0,252 557.0,252 554.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='586.0' y='247.0' fill='#e6edf3' text-anchor='middle'>6F509</text>
+<polygon points='621.0,234 679.0,234 682.0,243.0 679.0,252 621.0,252 618.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='650.0' y='247.0' fill='#e6edf3' text-anchor='middle'>F8F70F00</text>
+<polygon points='685.0,234 743.0,234 746.0,243.0 743.0,252 685.0,252 682.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='714.0' y='247.0' fill='#e6edf3' text-anchor='middle'>EFD0000</text>
+<polygon points='749.0,234 807.0,234 810.0,243.0 807.0,252 749.0,252 746.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='778.0' y='247.0' fill='#e6edf3' text-anchor='middle'>3000000</text>
+<polygon points='813.0,234 1703.0,234 1706.0,243.0 1703.0,252 813.0,252 810.0,243.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1258.0' y='247.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<text x='10' y='281.0' fill='#79c0ff'>C[0][0]</text>
+<polygon points='173.0,268 391.0,268 394.0,277.0 391.0,286 173.0,286 170.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='282.0' y='281.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='397.0,268 455.0,268 458.0,277.0 455.0,286 397.0,286 394.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='426.0' y='281.0' fill='#e6edf3' text-anchor='middle'>6</text>
+<polygon points='461.0,268 519.0,268 522.0,277.0 519.0,286 461.0,286 458.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='490.0' y='281.0' fill='#e6edf3' text-anchor='middle'>-27</text>
+<polygon points='525.0,268 583.0,268 586.0,277.0 583.0,286 525.0,286 522.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='554.0' y='281.0' fill='#e6edf3' text-anchor='middle'>36</text>
+<polygon points='589.0,268 647.0,268 650.0,277.0 647.0,286 589.0,286 586.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='618.0' y='281.0' fill='#e6edf3' text-anchor='middle'>72</text>
+<polygon points='653.0,268 711.0,268 714.0,277.0 711.0,286 653.0,286 650.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='682.0' y='281.0' fill='#e6edf3' text-anchor='middle'>72</text>
+<polygon points='717.0,268 775.0,268 778.0,277.0 775.0,286 717.0,286 714.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='746.0' y='281.0' fill='#e6edf3' text-anchor='middle'>72</text>
+<polygon points='781.0,268 839.0,268 842.0,277.0 839.0,286 781.0,286 778.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='810.0' y='281.0' fill='#e6edf3' text-anchor='middle'>72</text>
+<polygon points='845.0,268 903.0,268 906.0,277.0 903.0,286 845.0,286 842.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='874.0' y='281.0' fill='#e6edf3' text-anchor='middle'>72</text>
+<polygon points='909.0,268 967.0,268 970.0,277.0 967.0,286 909.0,286 906.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='938.0' y='281.0' fill='#e6edf3' text-anchor='middle'>72</text>
+<polygon points='973.0,268 1575.0,268 1578.0,277.0 1575.0,286 973.0,286 970.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1274.0' y='281.0' fill='#e6edf3' text-anchor='middle'>72</text>
+<polygon points='1581.0,268 1703.0,268 1706.0,277.0 1703.0,286 1581.0,286 1578.0,277.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1642.0' y='281.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<text x='10' y='315.0' fill='#79c0ff'>C[0][1]</text>
+<polygon points='173.0,302 391.0,302 394.0,311.0 391.0,320 173.0,320 170.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='282.0' y='315.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='397.0,302 455.0,302 458.0,311.0 455.0,320 397.0,320 394.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='426.0' y='315.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='461.0,302 519.0,302 522.0,311.0 519.0,320 461.0,320 458.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='490.0' y='315.0' fill='#e6edf3' text-anchor='middle'>26</text>
+<polygon points='525.0,302 583.0,302 586.0,311.0 583.0,320 525.0,320 522.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='554.0' y='315.0' fill='#e6edf3' text-anchor='middle'>-10</text>
+<polygon points='589.0,302 647.0,302 650.0,311.0 647.0,320 589.0,320 586.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='618.0' y='315.0' fill='#e6edf3' text-anchor='middle'>89</text>
+<polygon points='653.0,302 711.0,302 714.0,311.0 711.0,320 653.0,320 650.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='682.0' y='315.0' fill='#e6edf3' text-anchor='middle'>149</text>
+<polygon points='717.0,302 775.0,302 778.0,311.0 775.0,320 717.0,320 714.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='746.0' y='315.0' fill='#e6edf3' text-anchor='middle'>149</text>
+<polygon points='781.0,302 839.0,302 842.0,311.0 839.0,320 781.0,320 778.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='810.0' y='315.0' fill='#e6edf3' text-anchor='middle'>149</text>
+<polygon points='845.0,302 903.0,302 906.0,311.0 903.0,320 845.0,320 842.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='874.0' y='315.0' fill='#e6edf3' text-anchor='middle'>149</text>
+<polygon points='909.0,302 967.0,302 970.0,311.0 967.0,320 909.0,320 906.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='938.0' y='315.0' fill='#e6edf3' text-anchor='middle'>149</text>
+<polygon points='973.0,302 1575.0,302 1578.0,311.0 1575.0,320 973.0,320 970.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1274.0' y='315.0' fill='#e6edf3' text-anchor='middle'>149</text>
+<polygon points='1581.0,302 1703.0,302 1706.0,311.0 1703.0,320 1581.0,320 1578.0,311.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1642.0' y='315.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<text x='10' y='349.0' fill='#79c0ff'>C[1][1]</text>
+<polygon points='173.0,336 391.0,336 394.0,345.0 391.0,354 173.0,354 170.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='282.0' y='349.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='397.0,336 455.0,336 458.0,345.0 455.0,354 397.0,354 394.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='426.0' y='349.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='461.0,336 519.0,336 522.0,345.0 519.0,354 461.0,354 458.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='490.0' y='349.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='525.0,336 583.0,336 586.0,345.0 583.0,354 525.0,354 522.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='554.0' y='349.0' fill='#e6edf3' text-anchor='middle'>182</text>
+<polygon points='589.0,336 647.0,336 650.0,345.0 647.0,354 589.0,354 586.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='618.0' y='349.0' fill='#e6edf3' text-anchor='middle'>278</text>
+<polygon points='653.0,336 711.0,336 714.0,345.0 711.0,354 653.0,354 650.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='682.0' y='349.0' fill='#e6edf3' text-anchor='middle'>124</text>
+<polygon points='717.0,336 775.0,336 778.0,345.0 775.0,354 717.0,354 714.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='746.0' y='349.0' fill='#e6edf3' text-anchor='middle'>334</text>
+<polygon points='781.0,336 839.0,336 842.0,345.0 839.0,354 781.0,354 778.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='810.0' y='349.0' fill='#e6edf3' text-anchor='middle'>334</text>
+<polygon points='845.0,336 903.0,336 906.0,345.0 903.0,354 845.0,354 842.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='874.0' y='349.0' fill='#e6edf3' text-anchor='middle'>334</text>
+<polygon points='909.0,336 967.0,336 970.0,345.0 967.0,354 909.0,354 906.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='938.0' y='349.0' fill='#e6edf3' text-anchor='middle'>334</text>
+<polygon points='973.0,336 1575.0,336 1578.0,345.0 1575.0,354 973.0,354 970.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1274.0' y='349.0' fill='#e6edf3' text-anchor='middle'>334</text>
+<polygon points='1581.0,336 1703.0,336 1706.0,345.0 1703.0,354 1581.0,354 1578.0,345.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1642.0' y='349.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<text x='10' y='383.0' fill='#79c0ff'>C[2][2]</text>
+<polygon points='173.0,370 391.0,370 394.0,379.0 391.0,388 173.0,388 170.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='282.0' y='383.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='397.0,370 455.0,370 458.0,379.0 455.0,388 397.0,388 394.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='426.0' y='383.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='461.0,370 519.0,370 522.0,379.0 519.0,388 461.0,388 458.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='490.0' y='383.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='525.0,370 583.0,370 586.0,379.0 583.0,388 525.0,388 522.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='554.0' y='383.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='589.0,370 647.0,370 650.0,379.0 647.0,388 589.0,388 586.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='618.0' y='383.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='653.0,370 711.0,370 714.0,379.0 711.0,388 653.0,388 650.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='682.0' y='383.0' fill='#e6edf3' text-anchor='middle'>42</text>
+<polygon points='717.0,370 775.0,370 778.0,379.0 775.0,388 717.0,388 714.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='746.0' y='383.0' fill='#e6edf3' text-anchor='middle'>36</text>
+<polygon points='781.0,370 839.0,370 842.0,379.0 839.0,388 781.0,388 778.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='810.0' y='383.0' fill='#e6edf3' text-anchor='middle'>171</text>
+<polygon points='845.0,370 903.0,370 906.0,379.0 903.0,388 845.0,388 842.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='874.0' y='383.0' fill='#e6edf3' text-anchor='middle'>183</text>
+<polygon points='909.0,370 967.0,370 970.0,379.0 967.0,388 909.0,388 906.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='938.0' y='383.0' fill='#e6edf3' text-anchor='middle'>183</text>
+<polygon points='973.0,370 1575.0,370 1578.0,379.0 1575.0,388 973.0,388 970.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1274.0' y='383.0' fill='#e6edf3' text-anchor='middle'>183</text>
+<polygon points='1581.0,370 1703.0,370 1706.0,379.0 1703.0,388 1581.0,388 1578.0,379.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1642.0' y='383.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<text x='10' y='417.0' fill='#79c0ff'>C[3][3]</text>
+<polygon points='173.0,404 391.0,404 394.0,413.0 391.0,422 173.0,422 170.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='282.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='397.0,404 455.0,404 458.0,413.0 455.0,422 397.0,422 394.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='426.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='461.0,404 519.0,404 522.0,413.0 519.0,422 461.0,422 458.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='490.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='525.0,404 583.0,404 586.0,413.0 583.0,422 525.0,422 522.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='554.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='589.0,404 647.0,404 650.0,413.0 647.0,422 589.0,422 586.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='618.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='653.0,404 711.0,404 714.0,413.0 711.0,422 653.0,422 650.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='682.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='717.0,404 775.0,404 778.0,413.0 775.0,422 717.0,422 714.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='746.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='781.0,404 839.0,404 842.0,413.0 839.0,422 781.0,422 778.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='810.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+<polygon points='845.0,404 903.0,404 906.0,413.0 903.0,422 845.0,422 842.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='874.0' y='417.0' fill='#e6edf3' text-anchor='middle'>24</text>
+<polygon points='909.0,404 967.0,404 970.0,413.0 967.0,422 909.0,422 906.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='938.0' y='417.0' fill='#e6edf3' text-anchor='middle'>206</text>
+<polygon points='973.0,404 1575.0,404 1578.0,413.0 1575.0,422 973.0,422 970.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1274.0' y='417.0' fill='#e6edf3' text-anchor='middle'>176</text>
+<polygon points='1581.0,404 1703.0,404 1706.0,413.0 1703.0,422 1581.0,422 1578.0,413.0' fill='#1c2128' stroke='#d29922' stroke-width='1'/>
+<text x='1642.0' y='417.0' fill='#e6edf3' text-anchor='middle'>0</text>
+</svg>
