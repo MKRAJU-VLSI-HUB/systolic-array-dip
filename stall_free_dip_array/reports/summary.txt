@@ -1,2 +1,0 @@
-design=stall_free_dip_array top=stall_free_dip_array part=xc7k70tfbv676-1 N=4
-LUT=1777 FF=1156 DSP=0 WNS_ns=5.914 (100 MHz clock) total_power_W=0.113

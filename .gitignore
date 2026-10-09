@@ -5,3 +5,4 @@ scripts/
 *.log
 *.pb
 xsim.dir/
+stall_free_dip_array/
